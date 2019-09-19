@@ -6,7 +6,7 @@ This project is still in the very early development stage. If you want to use fo
 
 ## Screen
 
-![Image](https://content.screencast.com/users/dyahh/folders/news-app/media/af07fe4a-7315-420a-95f8-de38b34745ec/news-app.gif)
+![Image](https://content.screencast.com/users/dyahh/folders/news-app/media/29c26b7c-5b55-47c9-aeea-c8a4d9883b7a/news-app3.gif)
 
 ## Features
 * News List
